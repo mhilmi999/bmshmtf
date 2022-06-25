@@ -1,0 +1,11 @@
+.homeslide1 {
+    padding: auto;
+    margin: auto;
+    background-image: url("../img/bgmain.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundAll {
+    background-color: #F5E5D1;
+}
